@@ -1,0 +1,31 @@
+body { 
+    font-family: Roboto, ComicNeue, sans-serif;
+    font-size: 16px;
+    padding: 0 40px;
+}
+
+h1 {
+    font-family: "Roboto-Bold";
+    font-size: 20px; 
+}
+
+h2 {
+    font-family: "Roboto-Bold";
+    font-size: 15px;
+}
+
+.intro {
+    font-family: "Roboto-Regular" ;
+    font-size: 12px; 
+    line-height: 1.4 em;
+}
+
+.domanda {
+    font-family: "ComicNeue-Bold";
+    font-size: 20px; 
+}
+
+.risposta {
+    font-family: "ComicNeue-Regular";
+    font-size: 20px; 
+}

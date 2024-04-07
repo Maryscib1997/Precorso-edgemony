@@ -1,0 +1,37 @@
+body { 
+    font-family: Roboto, ComicNeue, sans-serif;
+    font-size: 16px;
+}
+
+h1 {
+    font-family: "Roboto-Bold";
+    font-size: 20px; 
+}
+
+h2 {
+    font-family: "Roboto-Bold";
+    font-size: 15px;
+}
+
+.intro {
+    font-family: "Roboto-Regular" ;
+    font-size: 12px; 
+    line-height: 1.4 em;
+}
+
+.domanda {
+    color: #9c6aa5;
+    font-family: "ComicNeue-Bold";
+    font-size: 20px; 
+}
+
+.risposta {
+    font-family: "ComicNeue-Regular";
+    font-size: 20px; 
+}
+
+@media screen and (max-width: 600px) {
+    body {
+    background-color: lightblue;
+    }
+    }
